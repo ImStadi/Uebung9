@@ -1,3 +1,8 @@
+/***************
+ * Stadler Andre
+ * 
+ ***************/
+
 import javafx.application.Application;
 import javafx.stage.Stage;
 import login.WelcomeController;
